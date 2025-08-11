@@ -1,5 +1,8 @@
 User-Agent: *
 Allow: /
 
+# サイトマップの場所
+Sitemap: https://task-management.serverless-tools.com/sitemap.xml
+
 # 個人用タスク管理ツール
 # ToDoリスト、チェックリスト、買い物リスト、その他メモといった使い方も可能！タスクをどんどん追加し、どんどん削除していくための無料Webツールです。

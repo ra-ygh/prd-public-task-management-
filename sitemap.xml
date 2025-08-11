@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- メインページ（日本語） -->
+  <url>
+    <loc>https://task-management.serverless-tools.com/ja/</loc>
+    <lastmod>2025-08-11</lastmod>
+    <xhtml:link rel="canonical" href="https://task-management.serverless-tools.com/ja/" hreflang="ja"/>
+  </url>
+
+  <!-- ルートページ（リダイレクト） -->
+  <url>
+    <loc>https://task-management.serverless-tools.com/</loc>
+    <lastmod>2025-08-11</lastmod>
+    <xhtml:link rel="canonical" href="https://task-management.serverless-tools.com/ja/" hreflang="ja"/>
+  </url>
+
+  <!-- お問い合わせページ -->
+  <url>
+    <loc>https://task-management.serverless-tools.com/ja/about/contact/</loc>
+    <lastmod>2025-08-11</lastmod>
+    <xhtml:link rel="canonical" href="https://task-management.serverless-tools.com/ja/about/contact/" hreflang="ja"/>
+  </url>
+
+  <!-- プライバシーポリシー -->
+  <url>
+    <loc>https://task-management.serverless-tools.com/ja/about/privacy/</loc>
+    <lastmod>2025-08-11</lastmod>
+    <xhtml:link rel="canonical" href="https://task-management.serverless-tools.com/ja/about/privacy/" hreflang="ja"/>
+  </url>
+
+  <!-- 利用規約 -->
+  <url>
+    <loc>https://task-management.serverless-tools.com/ja/about/terms/</loc>
+    <lastmod>2025-08-11</lastmod>
+    <xhtml:link rel="canonical" href="https://task-management.serverless-tools.com/ja/about/terms/" hreflang="ja"/>
+  </url>
+
+  <!-- 使い方ページ -->
+  <url>
+    <loc>https://task-management.serverless-tools.com/ja/about/usage/</loc>
+    <lastmod>2025-08-11</lastmod>
+    <xhtml:link rel="canonical" href="https://task-management.serverless-tools.com/ja/about/usage/" hreflang="ja"/>
+  </url>
+
+</urlset>
